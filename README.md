@@ -1,2 +1,2 @@
 # hua.network
-www.huachat.com
+www.hua.network
